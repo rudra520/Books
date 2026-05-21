@@ -17,6 +17,7 @@ All covers are included for easy browsing.
 | ![AI Engineering](https://github.com/rudra520/Books/blob/470161664fd071382da8d21552677ff9c60d9d87/Bookimg/(4).jpeg) | **AI Engineering: Building Applications with Foundation Models**<br>*Chip Huyen* | O’Reilly guide to designing, deploying, and scaling applications powered by foundation models. |
 | ![Data Science from Scratch](https://github.com/rudra520/Books/blob/5d78e636e15dd5d91c8cb14ac6f0f73364c23d29/Bookimg/(2).jpeg) | **Data Science from Scratch (First Principles with Python)**<br>*Joel Grus* | Hands‑on introduction that builds data science tools from the ground up using Python. |
 | ![Learning Python](https://github.com/rudra520/Books/blob/1d378a25cd42ee08a358cca675aa60893a4f9221/Bookimg/(1).jpeg) | **Learning Python (4th Edition)**<br>*Mark Lutz* | Comprehensive, object‑oriented deep dive into Python – from syntax to advanced features. |
+| ![Selenium Python](https://github.com/rudra520/Books/blob/d2fa35d3ed3ccc11842c78ee1726c216fc55dc49/Bookimg/Screenshot_20260521-213126.png) | **Selenium with Python**<br>*Automate Web Testing & Browsing* | A practical guide to browser automation, web scraping, and testing web applications using Selenium WebDriver with Python. Covers element location, waits, handling dynamic content, and headless browsing. |
 
 ---
 
