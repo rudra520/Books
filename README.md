@@ -18,12 +18,13 @@ All covers are included for easy browsing.
 | ![Data Science from Scratch](https://github.com/rudra520/Books/blob/5d78e636e15dd5d91c8cb14ac6f0f73364c23d29/Bookimg/(2).jpeg) | **Data Science from Scratch (First Principles with Python)**<br>*Joel Grus* | Hands‑on introduction that builds data science tools from the ground up using Python. |
 | ![Learning Python](https://github.com/rudra520/Books/blob/1d378a25cd42ee08a358cca675aa60893a4f9221/Bookimg/(1).jpeg) | **Learning Python (4th Edition)**<br>*Mark Lutz* | Comprehensive, object‑oriented deep dive into Python – from syntax to advanced features. |
 | ![Selenium Python](https://github.com/rudra520/Books/blob/d2fa35d3ed3ccc11842c78ee1726c216fc55dc49/Bookimg/Screenshot_20260521-213126.png) | **Selenium with Python**<br>*Automate Web Testing & Browsing* | A practical guide to browser automation, web scraping, and testing web applications using Selenium WebDriver with Python. Covers element location, waits, handling dynamic content, and headless browsing. |
+| ![Python for Finance](https://github.com/rudra520/Books/blob/20a679c48f6e5924ac148267fd272ed2f66194a8/Bookimg/Screenshot_20260522-071416.png) | **Python for Finance**<br>*With Illustrations from the Financial Markets* | An introductory guide to applying Python to financial data analysis, algorithmic trading, and quantitative finance solutions. |
 
 ---
 
 ## 📁 Repository Structure
 
-All cover images (`.png`) and this `README.md` are located in the root directory.
+All cover images (`.png` / `.jpeg`) and this `README.md` are located in the root directory.
 
 ## 🧠 Usage
 
