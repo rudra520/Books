@@ -19,6 +19,7 @@ All covers are included for easy browsing.
 | ![Learning Python](https://github.com/rudra520/Books/blob/1d378a25cd42ee08a358cca675aa60893a4f9221/Bookimg/(1).jpeg) | **Learning Python (4th Edition)**<br>*Mark Lutz* | Comprehensive, object‑oriented deep dive into Python – from syntax to advanced features. |
 | ![Selenium Python](https://github.com/rudra520/Books/blob/d2fa35d3ed3ccc11842c78ee1726c216fc55dc49/Bookimg/Screenshot_20260521-213126.png) | **Selenium with Python**<br>*Automate Web Testing & Browsing* | A practical guide to browser automation, web scraping, and testing web applications using Selenium WebDriver with Python. Covers element location, waits, handling dynamic content, and headless browsing. |
 | ![Python for Finance](https://github.com/rudra520/Books/blob/20a679c48f6e5924ac148267fd272ed2f66194a8/Bookimg/Screenshot_20260522-071416.png) | **Python for Finance**<br>*With Illustrations from the Financial Markets* | An introductory guide to applying Python to financial data analysis, algorithmic trading, and quantitative finance solutions. |
+| ![Python with Tkinter](https://github.com/rudra520/Books/blob/daf730e6abb1b83a0b44326d98d454e813b16147/Bookimg/Screenshot_20260522-071859.png) | **Python GUI Programming with Tkinter**<br>*Develop Responsive and Powerful GUI Applications* | A hands-on guide to building desktop applications, structuring code with OOP, and designing custom user interfaces using Python's built-in GUI framework. |
 
 ---
 
