@@ -1,11 +1,3 @@
-<!-- 
-  Interactive Book Repository README
-  - Responsive card grid with hover effects
-  - Collapsible sections for repository info & usage
-  - Quick navigation & category filters (anchor links)
-  - "Search online" buttons for each book (Google search)
-  - Star reminder & contribution badge
--->
 
 <h1 align="center">📚 Interactive Book Repository</h1>
 
@@ -39,7 +31,7 @@
 | 🧮 [Algorithms & Math](#algo-math) | |
 | 🤖 [AI Engineering & LLMs](#ai-eng) | |
 | 🧪 [Testing & Automation](#testing-auto) | |
-
+---
 <details>
 <summary><strong>📌 How to use this interactive README</strong> (click to expand)</summary>
 
