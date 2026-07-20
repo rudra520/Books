@@ -47,7 +47,6 @@ A guide to designing robust prompts that ensure consistent and high-quality outp
 - Prompt tuning
 - Safety & evaluation
 
-🔍 https://www.google.com/search?q=Prompt+Engineering+for+Generative+AI+James+Phoenix+Mike+Taylor
 
 ---
 
