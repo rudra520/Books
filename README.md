@@ -83,7 +83,6 @@ Learn how to design, deploy, and scale applications powered by foundation models
 - Evaluation
 - LLMOps
 
-🔍 https://www.google.com/search?q=AI+Engineering+Building+Applications+with+Foundation+Models+Chip+Huyen
 
 ---
 
